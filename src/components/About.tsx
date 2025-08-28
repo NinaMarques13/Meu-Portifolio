@@ -64,6 +64,16 @@ const About = () => {
                 </p>
               </CardContent>
             </Card>
+            
+            <Card className="card-hover border-primary/20 bg-card/50 backdrop-blur-sm">
+              <CardContent className="p-6 text-center">
+                <GraduationCap className="h-12 w-12 text-primary mx-auto mb-4" />
+                <h3 className="text-xl font-bold mb-2">Idiomas</h3>
+                <p className="text-muted-foreground">
+                  Inglês - Nível Avançado
+                </p>
+              </CardContent>
+            </Card>
 
             <Card className="card-hover border-primary/20 bg-card/50 backdrop-blur-sm">
               <CardContent className="p-6 text-center">
