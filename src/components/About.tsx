@@ -29,7 +29,7 @@ const About = () => {
               
               <p className="text-lg leading-relaxed">
                 Minha paixão é criar soluções tecnológicas que fazem a diferença, sempre focando 
-                em <span className="text-primary font-semibold">qualidade e consistência</span> 
+                em <span className="text-primary font-semibold">qualidade e consistência</span>  
                 em cada projeto que desenvolvo.
               </p>
 
